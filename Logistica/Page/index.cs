@@ -9,7 +9,7 @@ using Logistica.Service;
 
 namespace Logistica.Page
 {
-    public partial class Logistica : System.Web.UI.Page
+    public partial class index : System.Web.UI.Page
     {
         double[] camiones = new double[7];
         int[] mejor_camion = new int[7];

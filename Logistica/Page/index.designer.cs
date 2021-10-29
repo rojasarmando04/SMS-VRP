@@ -7,11 +7,11 @@
 // </generado automáticamente>
 //------------------------------------------------------------------------------
 
-namespace Logistica.Page
+namespace index.Page
 {
 
 
-    public partial class Logistica
+    public partial class index
     {
 
         /// <summary>
